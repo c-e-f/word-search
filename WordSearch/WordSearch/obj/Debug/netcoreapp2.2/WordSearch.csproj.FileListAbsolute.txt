@@ -1,0 +1,12 @@
+C:\Users\Connor\Documents\WordSearch\WordSearch\bin\Debug\netcoreapp2.2\WordSearch.deps.json
+C:\Users\Connor\Documents\WordSearch\WordSearch\bin\Debug\netcoreapp2.2\WordSearch.runtimeconfig.json
+C:\Users\Connor\Documents\WordSearch\WordSearch\bin\Debug\netcoreapp2.2\WordSearch.runtimeconfig.dev.json
+C:\Users\Connor\Documents\WordSearch\WordSearch\bin\Debug\netcoreapp2.2\WordSearch.dll
+C:\Users\Connor\Documents\WordSearch\WordSearch\bin\Debug\netcoreapp2.2\WordSearch.pdb
+C:\Users\Connor\Documents\WordSearch\WordSearch\obj\Debug\netcoreapp2.2\WordSearch.csprojAssemblyReference.cache
+C:\Users\Connor\Documents\WordSearch\WordSearch\obj\Debug\netcoreapp2.2\WordSearch.AssemblyInfoInputs.cache
+C:\Users\Connor\Documents\WordSearch\WordSearch\obj\Debug\netcoreapp2.2\WordSearch.AssemblyInfo.cs
+C:\Users\Connor\Documents\WordSearch\WordSearch\obj\Debug\netcoreapp2.2\WordSearch.dll
+C:\Users\Connor\Documents\WordSearch\WordSearch\obj\Debug\netcoreapp2.2\WordSearch.pdb
+C:\Users\Connor\Documents\WordSearch\WordSearch\obj\Debug\netcoreapp2.2\WordSearch.genruntimeconfig.cache
+C:\Users\Connor\Documents\WordSearch\WordSearch\obj\Debug\netcoreapp2.2\WordSearch.csproj.CoreCompileInputs.cache
